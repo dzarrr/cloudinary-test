@@ -1,0 +1,14 @@
+.images {
+	padding: 56px 20px;
+	min-height: 100%;
+	width: 100%;
+}
+
+.image{
+  border: solid 1px black;
+  padding: 20px;
+}
+
+.image > img {
+  max-height: 500px;
+}
